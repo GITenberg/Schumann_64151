@@ -1,0 +1,30 @@
+_repo: Schumann_64151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Batka, Richard
+    alias: Batka, R. (Richard)
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '52775'
+    url: http://www.gutenberg.org/2009/agents/52775
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Richard_Batka
+    - https://en.wikipedia.org/wiki/Richard_Batka
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64151'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Musiker-Biographien, 13. Band
+subjects:
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcsh 'Schumann, Robert, 1810-1856'
+- !lcc 'ML'
+- GITenberg
+title: Schumann
+url: http://www.gutenberg.org/ebooks/64151
